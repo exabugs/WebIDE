@@ -26,7 +26,7 @@
 ### 注意
  - CPU/メモリの上限を制限しています
  - 経費節減のため 午前中 (00:00-12:00) はサービスを完全停止します。
- 
+
 ### 料金
   - とりあえず正式リリースまでは無料
   - その先の予定は未定
@@ -100,3 +100,7 @@
  - yapf
  - hacking
  - tensorflow-1.4.0
+
+### 処理フロー
+![flow00](https://raw.githubusercontent.com/exabugs/WebIDE/master/img/flow00.png)
+![flow01](https://raw.githubusercontent.com/exabugs/WebIDE/master/img/flow01.png)
